@@ -49,3 +49,9 @@ The compute shader stage is called with its own dispatch commands and therefore 
 The Resource Inspector presents a list of all the resources used to render the frame on the right side of the window with information pertaining to its usage within the frame, related resources, and the functions used to initialize the resource. 
 
 To learn more about RenderDoc, [click here](https://renderdoc.org/docs/index.html) for its documentation.
+
+This section does not have its own project file, instead simple temporary changes will be made to previous section's project for demonstrational purposes.
+
+Bug #1 - Vertex Buffer Not Bound
+
+For the first example navigate to `
